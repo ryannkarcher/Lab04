@@ -27,4 +27,5 @@ console.log(5==6); //FALSE
 console.log(bankAccountBalance==numberOfFriends); //FALSE
 console.log(bankAccountBalance==52.10); //TRUE
 
-alert("It's working!");
+// alert("It's working!");
+

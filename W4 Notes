@@ -2,3 +2,5 @@ LINKING JAVA SCRIPT TO HTML
    <script src="index.js"></script>
    ALWAYS LINK IT
    
+concatenation: process of combining two or more strings
+   together to create a new strings
