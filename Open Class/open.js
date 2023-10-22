@@ -6,6 +6,7 @@ console.log("This is Open Class");
 // calculate the sum of these variables and display the result
 //  using the console.log()
 
-var num1=10;
+var num1 = 3;
 var num2=2;
-console.log(num1+num2);
+var x = num1*2 +num2*3; // 6+6 =12
+console.log(x);

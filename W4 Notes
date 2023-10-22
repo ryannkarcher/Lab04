@@ -4,3 +4,38 @@ LINKING JAVA SCRIPT TO HTML
    
 concatenation: process of combining two or more strings
    together to create a new strings
+
+OPEN CLASS NOTES
+   - comparison operator = used to compare two values <>=
+   - concatenate = process of joining two+ strings together to make new string
+   - equality operator = used to compare two values for equality
+      - == used to check loose equality: equal in value but not type
+      - === used for strict equality: equal in value and type
+   - math operations = math +-/*% (modulo is the last one, subtract
+      numbers over and over again)
+   - null = represents intentional absence of object value
+   - number = number; integers and floating-point numbers
+   - string = characters/words 
+   - type coercion = automatic or implicit conversion of a value
+   - undefined = type represents variable that has been declared
+      but not assigned a value
+   - variable = container that holds value; var
+   - console.log() = view otuput messages in console window
+   - NaN = what you get when you put undefined var with defined var
+   - BigInt = numeric value that can represent numbers larger than 
+      max safe integer of (2^53)-1, with suffic n at the end
+   - symbol = primitive data that represents unique identifier
+
+   declaring VARIABLES
+      - var or let 
+
+   - dynamic typing= data type implicitly based on data assigned
+   - loosely typed (weakly typed) = dat atype of variable can change
+
+   REASSIGN VARIABLES
+      - var myVar = 5;
+      - myVar =8; DO NOT REPEAT VAR (INTRODUCTORY)
+
+
+QUESTIONS:
+   - does the first boolean expression always need to be false?
